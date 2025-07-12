@@ -14,10 +14,10 @@ A console-based quiz game built in Python that mimics the format of *Kaun Banega
 ---
 
 ## 🧠 Sample Questions
-- who is MS Dhoni?
-- a. cricketer
-- b. actor
-- c. politician
-- d. scientist
-- Enter your answer (1-4)... 1 for a, 2 for b, 3 for c, 4 for d: 1
-- ✅ Correct! You win 1000 rupees.
+- Who is MS Dhoni?
+  a. cricketer
+  b. actor
+  c. politician
+  d. scientist
+  Enter your answer (1-4)... 1 for a, 2 for b, 3 for c, 4 for d: 1
+✅ Correct! You win 1000 rupees.
